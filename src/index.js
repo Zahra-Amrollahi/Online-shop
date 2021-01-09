@@ -1,10 +1,10 @@
 import React from 'react';
 import ReactDOM from 'react-dom';
 import { BrowserRouter } from 'react-router-dom'
-import './index.css'
+//import './index.css'
 import { App } from './App';
-import Playground from './Playground';
-import AppMui from './AppMui';
+
+//import AppMui from './AppMui';
 import * as serviceWorker from './serviceWorker';
 import { Provider } from "react-redux";
 import { store } from './_helper/store';

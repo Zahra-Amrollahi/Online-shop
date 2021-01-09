@@ -3,7 +3,7 @@ import React from 'react';
 import { Router, Route, Switch, Redirect, Link, withRouter } from 'react-router-dom';
 // import { Route } from 'react-router-dom';
 // import Navbar from './_components/Navbar';
-import MainPage from './_pages/main.page';
+//import MainPage from './_pages/main.page';
 import { LoginPage } from './_pages/login.page';
 import { RegisterPage } from './_pages/register.page';
 import { ProductPage } from './_pages/product.page';
